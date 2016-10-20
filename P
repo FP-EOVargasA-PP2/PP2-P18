@@ -1,0 +1,6 @@
+introduce el primer numero
+5
+introduce el segundo numero
+4
+el minimo comun denominador de 5 y 4 es 20
+BUILD SUCCESSFUL (total time: 4 seconds)
